@@ -7,3 +7,7 @@ golang toolbox
 > 协程安全
 
 #### [Log](https://github.com/goroom/x/tree/master/logx) 日志库
+> 
+
+#### [error](https://github.com/goroom/x/tree/master/errorx) 错误库
+> 递归显示error调用信息

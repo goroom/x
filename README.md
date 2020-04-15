@@ -5,5 +5,9 @@ golang toolbox
 
 #### [Rand](https://github.com/goroom/x/tree/master/randx)
 > goroutine-safe
->
+
 #### [Log](https://github.com/goroom/x/tree/master/logx)
+> 
+
+#### [Error](https://github.com/goroom/x/tree/master/errorx)
+> Recursively display error call information
