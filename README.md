@@ -5,3 +5,5 @@ golang toolbox
 
 #### [Rand](https://github.com/goroom/x/tree/master/randx)
 > goroutine-safe
+>
+#### [Log](https://github.com/goroom/x/tree/master/logx)
